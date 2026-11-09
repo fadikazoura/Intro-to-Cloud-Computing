@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "first_name": "Fadi",
+            "last_name": "Kazoura",
+            "email": "fadi.kazoura@e.braude.ac.il",
+            "courses": [
+                "אבטחת מידע וקריפטולוגיה",
+                "מבוא לבינה מלאכותית",
+                "web",
+                "מבוא ל מחשוב ענן",
+                "כריית נתונים ומערכות לומדות"
+            ],
+            "link": "https://w3.braude.ac.il/",
+            "favorite_program": ""
+        },
+        {
+            "first_name": "Rani",
+            "last_name": "Renawe",
+            "email": "rani.renawe@e.braude.ac.il",
+            "courses": [
+                "אבטחת מידע וקריפטולוגיה",
+                "מבוא לבינה מלאכותית",
+                "web",
+                "מבוא ל מחשוב ענן",
+                "כריית נתונים ומערכות לומדות"
+            ],
+            "link": "https://www.youtube.com/",
+            "favorite_program": ""
+        }
+    ]
+}
